@@ -1,0 +1,15 @@
+C:\Users\onur3\Desktop\Dizileriki\bin\Debug\net6.0\Dizileriki.exe
+C:\Users\onur3\Desktop\Dizileriki\bin\Debug\net6.0\Dizileriki.deps.json
+C:\Users\onur3\Desktop\Dizileriki\bin\Debug\net6.0\Dizileriki.runtimeconfig.json
+C:\Users\onur3\Desktop\Dizileriki\bin\Debug\net6.0\Dizileriki.dll
+C:\Users\onur3\Desktop\Dizileriki\bin\Debug\net6.0\Dizileriki.pdb
+C:\Users\onur3\Desktop\Dizileriki\obj\Debug\net6.0\Dizileriki.csproj.AssemblyReference.cache
+C:\Users\onur3\Desktop\Dizileriki\obj\Debug\net6.0\Dizileriki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onur3\Desktop\Dizileriki\obj\Debug\net6.0\Dizileriki.AssemblyInfoInputs.cache
+C:\Users\onur3\Desktop\Dizileriki\obj\Debug\net6.0\Dizileriki.AssemblyInfo.cs
+C:\Users\onur3\Desktop\Dizileriki\obj\Debug\net6.0\Dizileriki.csproj.CoreCompileInputs.cache
+C:\Users\onur3\Desktop\Dizileriki\obj\Debug\net6.0\Dizileriki.dll
+C:\Users\onur3\Desktop\Dizileriki\obj\Debug\net6.0\refint\Dizileriki.dll
+C:\Users\onur3\Desktop\Dizileriki\obj\Debug\net6.0\Dizileriki.pdb
+C:\Users\onur3\Desktop\Dizileriki\obj\Debug\net6.0\Dizileriki.genruntimeconfig.cache
+C:\Users\onur3\Desktop\Dizileriki\obj\Debug\net6.0\ref\Dizileriki.dll
